@@ -1,0 +1,6 @@
+input =  '/data/work/bob/box_user_events.tsv'
+intermediate = 'Box_group_minmax'
+Nb_days = 90
+output_result = 'Box_result' 
+output_X2 = 'Box_X2' 
+

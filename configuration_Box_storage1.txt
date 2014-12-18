@@ -1,0 +1,4 @@
+input_result = '/user/root/Box_result/part-r-00000'
+input_X2 = '/user/root/Box_X2/part-r-00000'
+Log = 'Search'
+output = 'Box_output2'
